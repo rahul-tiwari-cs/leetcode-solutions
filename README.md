@@ -1,5 +1,7 @@
 # leetcode-solutions
-This repository contains my accepted solutions to LeetCode problems
+This repository contains my accepted solutions to LeetCode problems 
+## Language used
+C++
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
