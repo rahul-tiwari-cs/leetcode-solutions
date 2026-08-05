@@ -26,9 +26,14 @@ C++
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
