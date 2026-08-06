@@ -12,8 +12,8 @@ public:
         int n = s.size();
         int num = 0;
         for (int i = 0; i < n ; i++){
-            if (mpp[s[i]] < mpp[s[i+1]]) {num = num - (mpp[s[i]]);}
-            else {num = num + (mpp[s[i]]);}
+            if (mpp[s[i]] < mpp[s[i+1]]) {num -= (mpp[s[i]]);}
+            else {num += (mpp[s[i]]);}
         }
         return num;
     }
