@@ -41,11 +41,13 @@ C++
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
