@@ -1,21 +1,12 @@
 class Solution {
-
-private:
-    int reverse_of_num (int n){
-        long rn = 0;
-        while (n > 0){
-            long long last = n % 10;
-            rn = rn * 10 + last;
-            n /= 10;
-        }
-        return (rn > INT_MAX) ? 0 : (int)rn;
-    }
-
 public:
     bool isPalindrome(int x) {
-        if (x < 0) return false;
-        int n = reverse_of_num(x);
-        if (x == n) return true;
-        return false;
+        if (x < 0 || (x % 10 == 0 && x != 0)) return false;
+        int half_rev = 0;
+        while (x > half_rev){
+            half_rev = half_rev * 10 + (x % 10);
+            x /= 10;
+        }
+        return (x == half_rev || x == half_rev / 10);
     }
 };
