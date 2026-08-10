@@ -59,6 +59,7 @@ C++
 | [0013-roman-to-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1143-longest-common-subsequence](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
