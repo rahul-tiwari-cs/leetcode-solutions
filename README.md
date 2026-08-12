@@ -36,6 +36,7 @@ C++
 | [0009-palindrome-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
@@ -61,6 +62,7 @@ C++
 | [0020-valid-parentheses](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
 | [1143-longest-common-subsequence](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -106,4 +108,12 @@ C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
