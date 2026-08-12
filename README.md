@@ -40,6 +40,7 @@ C++
 | [0066-plus-one](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Newton's Method
 |  |
 | ------- |
@@ -85,6 +86,7 @@ C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -118,4 +120,8 @@ C++
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
