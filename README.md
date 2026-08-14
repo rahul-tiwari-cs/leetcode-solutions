@@ -20,6 +20,7 @@ C++
 | [0001-two-sum](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ C++
 | [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -98,6 +100,7 @@ C++
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -126,4 +129,8 @@ C++
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
