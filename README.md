@@ -46,6 +46,7 @@ C++
 | [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Newton's Method
 |  |
 | ------- |
@@ -57,6 +58,7 @@ C++
 | [0021-merge-two-sorted-lists](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
