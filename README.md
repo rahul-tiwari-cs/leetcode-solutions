@@ -47,6 +47,7 @@ C++
 | [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -135,6 +136,7 @@ C++
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -151,4 +153,8 @@ C++
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
