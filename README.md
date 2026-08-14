@@ -14,6 +14,7 @@ C++
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
+| [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ C++
 | [0231-power-of-two](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0342-power-of-four) |
+| [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Newton's Method
 |  |
 | ------- |
@@ -141,4 +143,12 @@ C++
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
