@@ -13,6 +13,7 @@ C++
 | [0014-longest-common-prefix](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0066-plus-one) |
+| [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ C++
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
