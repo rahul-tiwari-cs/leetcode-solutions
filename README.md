@@ -11,6 +11,7 @@ C++
 | [0001-two-sum](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
@@ -26,6 +27,7 @@ C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
