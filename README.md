@@ -19,6 +19,7 @@ C++
 | [0162-find-peak-element](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 | [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
