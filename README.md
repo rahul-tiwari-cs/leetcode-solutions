@@ -14,6 +14,7 @@ C++
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 | [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -31,6 +32,7 @@ C++
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
