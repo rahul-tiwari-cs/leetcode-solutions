@@ -17,6 +17,7 @@ C++
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 | [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -38,6 +39,7 @@ C++
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
