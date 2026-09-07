@@ -16,6 +16,7 @@ C++
 | [0035-search-insert-position](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -128,6 +129,7 @@ C++
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
