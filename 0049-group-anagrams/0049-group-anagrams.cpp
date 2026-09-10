@@ -2,12 +2,15 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         vector<vector<string>> ans;
-        unordered_map<string, vector<string>> mpp;
+        map<vector<int>, vector<string>> mpp;
 
         for (auto x : strs){
-            string temp = x;
-            sort(x.begin(), x.end());
-            mpp[x].push_back(temp);
+            vector<int> alphs(26, 0);
+
+            for (auto c : x){
+                alphs[c - 'a']++;
+            }
+            mpp[alphs].push_back(x);
         }
 
         for(auto x : mpp){
