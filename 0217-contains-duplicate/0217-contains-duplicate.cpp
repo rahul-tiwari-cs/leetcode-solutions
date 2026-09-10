@@ -5,9 +5,8 @@ public:
         for(int i = 0; i < nums.size(); i++){
             if (mpp.find(nums[i]) != mpp.end()){
                 return true;
-            } else {
-                mpp[nums[i]] = 1;
-            }
+            } 
+            mpp[nums[i]] = 1;
         }
         return false;
     }
