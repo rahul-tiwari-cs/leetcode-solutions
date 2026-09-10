@@ -40,6 +40,7 @@ C++
 | [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ C++
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -187,6 +189,7 @@ C++
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Polygons
