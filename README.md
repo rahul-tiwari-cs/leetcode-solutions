@@ -19,6 +19,7 @@ C++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -36,6 +37,7 @@ C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -181,6 +183,7 @@ C++
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3024-type-of-triangle](https://github.com/rahul-tiwari-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Polygons
